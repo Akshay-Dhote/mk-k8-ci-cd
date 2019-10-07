@@ -1,5 +1,5 @@
 node{
-  def Namespace = "pkapp"
+  def Namespace = "default"
   def ImageName = "akshay8493/docker-test"
   def Creds	= "dockerhub"
   def imageTag = "1.0"
